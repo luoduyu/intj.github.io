@@ -1,9 +1,6 @@
 <div align="center">
 <h1>vdoing-template</h1>
 
-<p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
-
-
 ## 效果展示
 
 首页效果图：
