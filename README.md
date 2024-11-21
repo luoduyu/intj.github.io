@@ -1,29 +1,8 @@
 <div align="center">
 <h1>vdoing-template</h1>
 
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template)
-[![website eryajf.github.io/vdoing-template](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vdoing-template.svg)](https://eryajf.github.io/vdoing-template/)
-
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
-</div><br>
-
-⚗️ 功能亮点：
-
-- 三步配置生成一个属于自己的免费个人博客。
-- 使用[Vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)主题，感谢作者写出如此简洁美观的博客主题。
-- 模板已内置集成全文搜索能力。
-- 模板已内置集成基于 GitHub Issue 的 vssue 评论系统。
-- 本地 Markdown 编写文档，提交到远程之后`GitHub Actions`自动构建发布。
-
-🦩 以下仅需简短的几步配置，就可以配置拥有一个免费的个人博客。准备好了吗，来吧！
 
 ## 效果展示
 
